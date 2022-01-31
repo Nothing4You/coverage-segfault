@@ -1,1 +1,1 @@
-import aiomysql
+import coverage
